@@ -10,11 +10,11 @@
     },
     "require": {
         "php": ">=7.2",
-        "psr/log": "^1.0",
-        "phpunit/phpunit": "^9"
+        "psr/log": "^1.0.1 || ^2.0 || ^3.0"
+        "phpunit/phpunit": "^10.5"
     },
     "require-dev": {
-        "monolog/monolog": "^1.17"
+        "monolog/monolog": "^2.0"
     },
     "suggest": {
         "monolog/monolog": "For advanced logging strategies",
